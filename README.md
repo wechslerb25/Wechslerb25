@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋
+
+I am new to GitHub and looking to get working more on software development. I am beginning to get into coding and I also enjoy playing baseball and golf. 
 
 <!--
 **wechslerb25/Wechslerb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
